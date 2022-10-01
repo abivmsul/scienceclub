@@ -10,6 +10,7 @@
 }
 html {
   font-size: 62.5%;
+  
 }
 
 body {
@@ -208,7 +209,7 @@ body {
   margin-bottom: 4.2rem;
 }
 
-.container.about-me-container {
+.containerr.about-me-containerr {
   padding: 0 6.8rem;
 }
 
@@ -496,7 +497,7 @@ body {
   text-align: center;
 }
 
-.contact-me-container {
+.contact-me-containerr {
   max-width: 60rem;
   padding: 0 6.8rem;
   margin: 0 auto;

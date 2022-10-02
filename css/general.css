@@ -3,7 +3,7 @@
  10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
  */
 
- * {
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -22,8 +22,6 @@ body {
   color: #8892b0;
   overflow-x: hidden;
 }
-
-
 
 .containerr {
   /* 1140px */
